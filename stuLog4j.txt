@@ -1,0 +1,6 @@
+log4j.rootLogger=info,stdout,file
+日志级别为info，日志打印到控制台（stdout）和文件（file）
+
+log4j.rootLogger=off
+关闭日志打印，用于生产环境
+
